@@ -1,28 +1,22 @@
-# 📌 Project Name
+# 📌 Proje Adı
 
-_Açıklayıcı bir başlık ve kısa açıklama_
+C# Eğitim Kampı
 
 ## 🔎 Proje Hakkında
 
-Bu proje, **[Projenizin Amacı ve İşlevi]** üzerine odaklanmaktadır. **[Projede kullanılan diller, araçlar ve teknikler hakkında kısa bilgi].** Bu proje ile **[ne tür bir çözüm veya fayda sağladığı]** amaçlanmıştır.
 
-## 🚀 Özellikler
+## 🚀 Projeler
 
-- **Özellik 1:** [Açıklama]
-- **Özellik 2:** [Açıklama]
-- **Özellik 3:** [Açıklama]
-- **Diğer Özellikler:** [Açıklama]
+-📍Proje1:Merhaba dünya ve temel yazdırma komutları
+-📍Proje2:Değişkenler
+-📍Proje3:Karar yapıları
+-📍Proje4:Döngüler
+-📍Proje5:Döngüler örnek
+-📍Proje6:Diziler
+-📍Proje7:Foreach
+-📍Proje8:Metotlar
+-📍Proje9:Veri Tabanı Temel Kavramlar
 
 ## 📂 Proje Yapısı
 
-Proje yapısının kısa bir özetini verin:
 
-```plaintext
-.
-├── src
-│   ├── main.js
-│   ├── ...
-├── public
-│   ├── index.html
-│   ├── ...
-└── README.md
