@@ -1,6 +1,6 @@
-# 📌 Proje Adı
+# 📌 C# Eğitim Kampı
 
-C# Eğitim Kampı
+
 
 ## 🔎 Proje Hakkında
 
